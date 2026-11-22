@@ -1,0 +1,13 @@
+# Code-only publication allowlist. Keep research inputs and outputs local.
+/*
+!/.gitignore
+!/README.md
+!/LICENSE
+!/CITATION.cff
+!/requirements.txt
+!/requirements-benchmarks.txt
+!/molecule_diffusion/
+
+# Publish only direct Python modules from the source package.
+/molecule_diffusion/**
+!/molecule_diffusion/*.py

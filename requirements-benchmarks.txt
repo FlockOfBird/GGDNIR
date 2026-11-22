@@ -1,0 +1,5 @@
+-r requirements.txt
+fcd==1.2.2
+fcd-torch==1.0.7
+joblib
+seaborn

@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "Please cite the accompanying manuscript and include the code commit used in your research."
+type: software
+title: "GGDNIR: Good Generations Do Not Imply Informative Representations"
+authors:
+  - family-names: Forooghi
+    given-names: Ali
+repository-code: "https://github.com/FlockOfBird/GGDNIR"
+url: "https://github.com/FlockOfBird/GGDNIR"
+license: MIT
+preferred-citation:
+  type: unpublished
+  title: "Good Generations Do Not Imply Informative Representations: Evaluating Language-Model Latents in Molecular Diffusion"
+  authors:
+    - family-names: Forooghi
+      given-names: Ali
+    - family-names: Rueda
+      given-names: Luis
+    - family-names: Ngom
+      given-names: Alioune
